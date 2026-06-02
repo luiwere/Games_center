@@ -1,0 +1,25 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "PUBG",
+            "description": "PUBG: Battlegrounds (previously titled PlayerUnknown's Battlegrounds) is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. Played from either a third-person or first-person perspective, up to one hundred players parachute onto an island where they are tasked to scavenge for weapons and equipment to kill other players while avoiding getting killed themselves.",
+            "img_path": "images/PUBG.jpeg",
+            "link": "https://pubgmobile.com"
+        },
+        {
+            "id": 2,
+            "title": "CALL OF DUTY",
+            "description": "Call of Duty (CoD) is a first-person shooter military video game series and media franchise published by Activision, starting in 2003. The games were first developed by Infinity Ward, then by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent, Call of Duty: Black Ops 7, was released on November 14, 2025.",
+            "img_path": "images/cod.jpeg",
+            "link": "https://www.callofduty.com/"
+        },
+        {
+            "id": 3,
+            "title": "ASSASSIN'S CREED",
+            "description": "Assassin's Creed is a historical action-adventure video game series and media franchise published by Ubisoft and developed mainly by its studio Ubisoft Montreal using the game engine Anvil and its more advanced derivatives. The series features historical fiction, science fiction, and fictional characters intertwined with real-world historical events and historical figures.",
+            "img_path": "images/assassin.jpeg",
+            "link": "https://www.ubisoft.com/en-us/game/assassins-creed"
+        }
+    ]
+}
