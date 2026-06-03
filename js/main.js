@@ -12,9 +12,11 @@ fetch("data.json")
         <div class="box">
           <h2>${game.title}</h2>
     
-          <img src="${game.img_path}" alt="${game.title} cover image">
-          <p>${game.description}</p>
-          <a href="${game.link}" target="_blank">Go to page</a>
+         
+          <a href="${game.link}" target="_blank">
+           <img src="${game.img_path}" alt="${game.title} cover image">
+          </a>
+           <p>${game.description}</p>
         </div>
       `;
     });
